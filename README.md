@@ -1,2 +1,2 @@
 # Baking-cake
-This is my school project. I made this project in Turkish.
+This project shows the time of the processes for baking cake in the progress bar.
